@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frAppInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frAuthor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frCreateSignature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frNameForSignature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frVertification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
