@@ -23,4 +23,4 @@ Version 2(23/12/2022)
     - Extract Signature.zip have been created.
     - Replace origin file with any file or rewrite it.
     - Zip 3 file: PublicKey.xml, file.qvst(signature file) and origin file (replaced).NOTE: zip 3 file, NOT zip folder contain 3 file!
-    - Uing feature Vertification Signature,import zip file above and click button Vertification Signature, you will see warning red line.
+    - Using feature Vertification Signature,import zip file above and click button Vertification Signature, you will see warning red line.
