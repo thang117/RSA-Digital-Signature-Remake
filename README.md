@@ -16,3 +16,11 @@ Vertification
   - signature file ".qvst".
   - file "PublicKey.xml".
   - your file are used to make signature.
+
+Version 2(23/12/2022)
+- Optimal read file algorithm.
+- For everyone who want check state "vertification failed":
+    *Extract Signature.zip have been created.
+    *Replace origin file with any file or rewrite it.
+    *Zip 3 file: PublicKey.xml, file.qvst(signature file) and origin file (replaced).NOTE: zip 3 file, NOT zip folder contain 3 file!
+    *Uing feature Vertification Signature,import zip file above and click button Vertification Signature, you will see warning red line.
